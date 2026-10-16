@@ -254,5 +254,6 @@
         }
     },
     "editor.suggest.snippetsPreventQuickSuggestions": false,
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "analyzer.runMode": "interpreted"
 }
